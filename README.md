@@ -1,2 +1,2 @@
 # BAMtastic
-just some scripts
+too lazy to edit
